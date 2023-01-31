@@ -17,5 +17,7 @@ We will also see how to deploy.
 
 ## How To Contribute
 
+please fork this repo and issue pull request for review
+
 ### Copyright
 Git.Training
