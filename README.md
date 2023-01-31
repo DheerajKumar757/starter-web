@@ -16,3 +16,6 @@ As statued above, the main purpose is to provide simple examples for Git trainin
 We will also see how to deploy.
 
 ## How To Contribute
+
+### Copyright
+Git.Training
