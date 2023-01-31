@@ -9,6 +9,10 @@ This is example to show difference parts of the Git repository and various comma
 
 ## Purpose
 
+As statued above, the main purpose is to provide simple examples for Git training demos.
+
 ## Deployment
+
+We will also see how to deploy.
 
 ## How To Contribute
